@@ -1,4 +1,4 @@
-arr = [9, 5, 3, 4, 12, 34, 11]
+arr = [9, 5, 3, 4, -12, 34, 11]
 
 print("input", arr)
 for i in range(len(arr), 0, -1):
