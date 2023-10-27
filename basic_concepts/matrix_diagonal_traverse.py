@@ -70,3 +70,20 @@ Sum of the elements of the 2nd diagonal: 5 + 1 = 6
 
 Sum of the elements of the 3rd diagonal: -4
 """
+import sys
+
+test_cases = sys.stdin.readline()
+
+for test_case in range(int(test_cases)):
+    matrix_size = int(sys.stdin.readline())
+    output = [0] * (matrix_size * 2 - 1)
+    mid = (matrix_size * 2 - 1) // 2
+    for row_num in range(matrix_size):
+        input = sys.stdin.readline()
+        row = input.split(" ")
+        for col_num, value in enumerate(row):
+            output_index = row_num - col_num
+            output[mid + output_index] += int(value)
+    for num in output:
+        print(num, end=" ")
+    print("")

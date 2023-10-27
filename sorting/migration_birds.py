@@ -52,6 +52,7 @@ Sample Output 1
 3
 """
 
+
 def migratoryBirds(arr):
     arr.sort()
     max_count = 0

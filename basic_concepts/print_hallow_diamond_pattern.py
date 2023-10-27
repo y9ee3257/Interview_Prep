@@ -65,7 +65,7 @@ for idx in range(0, int(test_cases)):
     num_lines = int(sys.stdin.readline())
     print(f'Case #{idx + 1}:')
     for line_num in range(0, num_lines):
-        output = [" "] * (num_lines)
+        output = [" "] * num_lines
         mid_index = num_lines // 2
         star_1_pos = abs(mid_index - line_num)
         output[star_1_pos] = "*"
