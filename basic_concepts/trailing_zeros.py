@@ -1,4 +1,6 @@
 """
+https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/trailing-zeros?page=0&pageSize=10
+
 Count the number of trailing 0s in factorial of a given number.
 
 Input Format

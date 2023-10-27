@@ -1,4 +1,6 @@
 """
+https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/repeated-numbers?page=2&pageSize=10
+
 Repeated Numbers
 You are given an array of N elements. All elements of the array are in range 1 to N-2. All elements occur once except two numbers, which occur twice. Your task is to find the two repeating numbers.
 Input Format
@@ -22,11 +24,6 @@ Input
 Output
 3 5
 1 4
-
-
-
-1 5 2 8 1 4 7 4 3 6
--1
 """
 import sys
 
