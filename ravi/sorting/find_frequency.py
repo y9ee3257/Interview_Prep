@@ -47,20 +47,65 @@ e. Inbuilt HashMap Library
 import sys
 
 array_size = int(sys.stdin.readline())
-array = sys.stdin.readline().split(" ")
-dict = {}
-for element in array:
-    element_int = int(element)
-    if element_int not in dict:
-        dict[element_int] = 1
-    else:
-        dict[element_int] += 1
+array = [int(x) for x in sys.stdin.readline().split()]
 
-queries = int(sys.stdin.readline())
 
-for query in range(queries):
-    input_num = int(sys.stdin.readline())
-    if input_num in dict:
-        print(dict[input_num])
-    else:
+def using_hash_map():
+    dict = {}
+    for element in array:
+        element_int = element
+        if element_int not in dict:
+            dict[element_int] = 1
+        else:
+            dict[element_int] += 1
+
+    queries = int(sys.stdin.readline())
+
+    for query in range(queries):
+        input_num = int(sys.stdin.readline())
+        if input_num in dict:
+            print(dict[input_num])
+        else:
+            print(0)
+
+
+# running into few issues
+def using_sort_binary_search():
+    array.sort()
+    queries = int(sys.stdin.readline())
+
+    start = 0
+    end = len(array) - 1
+    mid = (start + end) // 2
+    for query in range(queries):
+        input_num = int(sys.stdin.readline())
+        print("input_num", input_num)
+        while start != end:
+            print("mid", mid)
+            if input_num < array[mid]:
+                print("input_num < array[mid], new end =", mid - 1)
+                end = mid - 1
+            elif input_num > array[mid]:
+                print("input_num > array[mid], new start =", mid + 1)
+                start = mid + 1
+            else:
+                break
+            mid = (start + end) // 2
+            print("new start, mid,end  is ", start, mid, end)
+
+        if input_num == array[mid]:
+            count = 0
+            p1 = mid - 1
+            p2 = mid + 1
+            while array[p1] != input_num and array[p2] != input_num:
+                if array[p1] == input_num:
+                    count += 1
+                    p1 -= 1
+                if array[p2] == input_num:
+                    count += 1
+                    p2 += 1
+            print(count)
         print(0)
+
+
+using_sort_binary_search()
