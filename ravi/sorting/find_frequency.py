@@ -3,9 +3,12 @@ https://hive.smartinterviews.in/contests/smart-interviews-primary/problems/findi
 
 Given an array, you have to find the frequency of a number x.
 Input Format
-The first line of input contains N - size of the array. The next line contains N integers, the elements of the array. The next line contains Q - number of queries. Each of the next Q lines contains a single integer X, for which you have to find the frequency of X in the given array.
+The first line of input contains N - size of the array. The next line contains N integers, the elements of the array.
+The next line contains Q - number of queries. Each of the next Q lines contains a single integer X,
+for which you have to find the frequency of X in the given array.
 Output Format
 For each query, print the frequency of X, separated by newline.
+
 Constraints
 30 points
 1 <= N <= 105
@@ -15,6 +18,7 @@ Constraints
 1 <= N <= 105
 1 <= Q <= 105
 -108 <= ar[i] <= 108
+
 Example
 Input
 9

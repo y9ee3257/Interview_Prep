@@ -1,1 +1,2 @@
 https://leetcode.com/problems/factorial-trailing-zeroes/
+https://www.geeksforgeeks.org/program-to-find-the-nth-natural-number-with-exactly-two-bits-set/
