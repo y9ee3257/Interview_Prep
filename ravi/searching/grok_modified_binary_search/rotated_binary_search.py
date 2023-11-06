@@ -1,4 +1,7 @@
-# Given a sorted integer array, nums, and an integer value, target, the array is rotated by some arbitrary number. Search and return the index of target in this array. If the target does not exist, return -1.
+#https://www.educative.io/courses/grokking-coding-interview-patterns-python/search-in-rotated-sorted-array
+#
+# Given a sorted integer array, nums, and an integer value, target, the array is rotated by some arbitrary number.
+# Search and return the index of target in this array. If the target does not exist, return -1.
 #
 # An original sorted array before rotation is given below:
 #

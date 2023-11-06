@@ -1,3 +1,5 @@
+# https://www.educative.io/courses/grokking-coding-interview-patterns-python/first-bad-version
+#
 # The latest version of a software product fails the quality check. Since each version is developed upon the previous
 # one, all the versions created after a bad version are also considered bad.
 #
