@@ -9,7 +9,7 @@ string_array = ["1", "2", "3", "4"]
 abs(-2)
 max(2, 3)
 min(3, 5)
-float("inf")  # max value
+float("inf")  # infinite value
 pow(2, 3)  # 2^3
 
 # Loops
@@ -18,9 +18,12 @@ string_to_int_array = [int(x) for x in string_array]
 #
 print(" ".join(map(str, output)))
 
-# get ascii value of a char and vice versa
-ord("c")
-chr(97)
+#Strings
+s = "aabbccd"
+s = s[:2]+"h"+s[3:] # to change char at index 2, String are immutable in python
+ord("c") # get ascii value of a char and vice versa
+chr(97) # get char from ascii
+
 
 # Dictionaries
 dict = {"a": 1, "b": 2}
