@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ravi/by_topic/stack_and_queues/stock_span.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/by_topic/strings/sherlock_anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/sliding_window/maximum_sliding_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/sliding_window/repeated_dna_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/basic_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/implement_queue_using_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/minimum_remove_to_make_valid_paranthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/remove_all_adjacent_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/python_cheatsheet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/by_topic/trees/implement_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/ valid_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/ik/recursion/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/ik/recursion/recursion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/ik/sorting/all_sorting_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/ik/sorting/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/ik/trees/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/ik/trees/trees.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/interview_points.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/python_commands.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ravi/python_commands_template.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pydevproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ravi/python_cheatsheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/python_cheatsheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ravi/python_cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/python_cheatsheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ravi/question_to_revisit/unable_to_solve.md" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/question_to_revisit/unable_to_solve.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiva/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiva/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiva/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiva/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiva/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiva/src/practice/RepeatedNumbers.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,24 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,25 +64,90 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ZEhOmkmKkCNonEjXtRDjXIytbw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="jdk.selected.JAVA_MODULE" value="openjdk-20" />
-    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.10" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.all_sorting_implementation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insertion_sort.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ravitejathummala/IdeaProjects/DSA/ravi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ravi" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.all_sorting_implementation">
+    <configuration name="all_sorting_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ravi/ik/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ravi/ik/sorting/all_sorting_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="implement_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ravi/by_topic/trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ravi/by_topic/trees/implement_binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="implement_queue_using_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -80,9 +170,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.all_sorting_implementation" />
+        <item itemvalue="Python.implement_binary_tree" />
         <item itemvalue="Python.implement_queue_using_stack" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -94,7 +194,24 @@
       <updated>1701993116383</updated>
       <workItem from="1701993117947" duration="1462000" />
       <workItem from="1702039086452" duration="590000" />
-      <workItem from="1702125821996" duration="2380000" />
+      <workItem from="1702125821996" duration="3863000" />
+      <workItem from="1703081460846" duration="1815000" />
+      <workItem from="1704150345430" duration="981000" />
+      <workItem from="1704550975187" duration="869000" />
+      <workItem from="1705152771134" duration="563000" />
+      <workItem from="1705281959699" duration="387000" />
+      <workItem from="1709423690187" duration="1191000" />
+      <workItem from="1710610229008" duration="577000" />
+      <workItem from="1712269262018" duration="1477000" />
+      <workItem from="1715212476259" duration="30000" />
+      <workItem from="1718061594360" duration="160000" />
+      <workItem from="1723504093066" duration="6534000" />
+      <workItem from="1723585396740" duration="6598000" />
+      <workItem from="1723920013820" duration="17631000" />
+      <workItem from="1724291555272" duration="196000" />
+      <workItem from="1724600411861" duration="5339000" />
+      <workItem from="1724758236227" duration="3772000" />
+      <workItem from="1725111584333" duration="725000" />
     </task>
     <servers />
   </component>
@@ -112,7 +229,21 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ravi/ik/sorting/all_sorting_implementation.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
+    <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
+    <SUITE FILE_PATH="coverage/DSA$insertion_sort.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723551850589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$implement_queue_using_stack.coverage" NAME="implement_queue_using_stack Coverage Results" MODIFIED="1702428475017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks" />
   </component>
 </project>
