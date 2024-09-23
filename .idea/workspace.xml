@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ravi/by_topic/trees/implement_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/ valid_parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/ik/recursion/questions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/ik/recursion/recursion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/ik/sorting/all_sorting_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/ik/sorting/questions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/ik/trees/question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/ik/trees/trees.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/interview_points.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/python_commands.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ravi/python_commands_template.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/n_queens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/suduko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/dynamic_programming/dynamic_programming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/dynamic_programming/min_sub_array_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/graphs/graphs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/graphs/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ravi/python_cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/python_cheatsheet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ravi/question_to_revisit/unable_to_solve.md" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/question_to_revisit/unable_to_solve.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiva/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiva/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiva/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiva/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiva/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiva/src/practice/RepeatedNumbers.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +66,9 @@
   &quot;keyToString&quot;: {
     &quot;Python.all_sorting_implementation.executor&quot;: &quot;Run&quot;,
     &quot;Python.insertion_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_sub_array_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.n_queens.executor&quot;: &quot;Run&quot;,
+    &quot;Python.suduko.executor&quot;: &quot;Run&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/ravitejathummala/IdeaProjects/DSA/ravi&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -91,6 +81,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -98,7 +93,7 @@
       <recent name="$PROJECT_DIR$/ravi" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.all_sorting_implementation">
+  <component name="RunManager" selected="Python.min_sub_array_sum">
     <configuration name="all_sorting_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
@@ -145,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="implement_queue_using_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="min_sub_array_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,12 +149,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ik/dynamic_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks/implement_queue_using_stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ik/dynamic_programming/min_sub_array_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="n_queens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/n_queens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="suduko" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/suduko.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,9 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.min_sub_array_sum" />
+        <item itemvalue="Python.n_queens" />
+        <item itemvalue="Python.suduko" />
         <item itemvalue="Python.all_sorting_implementation" />
         <item itemvalue="Python.implement_binary_tree" />
-        <item itemvalue="Python.implement_queue_using_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +254,11 @@
       <workItem from="1724291555272" duration="196000" />
       <workItem from="1724600411861" duration="5339000" />
       <workItem from="1724758236227" duration="3772000" />
-      <workItem from="1725111584333" duration="725000" />
+      <workItem from="1725111584333" duration="2541000" />
+      <workItem from="1725730746443" duration="10024000" />
+      <workItem from="1726416829172" duration="4052000" />
+      <workItem from="1726659068561" duration="251000" />
+      <workItem from="1726787282462" duration="828000" />
     </task>
     <servers />
   </component>
@@ -233,17 +280,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ravi/ik/sorting/all_sorting_implementation.py</url>
+          <url>file://$PROJECT_DIR$/src/ik/sorting/all_sorting_implementation.py</url>
           <line>127</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/suduko.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1725732159100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
+    <SUITE FILE_PATH="coverage/DSA$n_queens.coverage" NAME="n_queens Coverage Results" MODIFIED="1725744712648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$insertion_sort.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723551850589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
+    <SUITE FILE_PATH="coverage/DSA$min_sub_array_sum.coverage" NAME="min_sub_array_sum Coverage Results" MODIFIED="1726530281209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/dynamic_programming" />
     <SUITE FILE_PATH="coverage/DSA$implement_queue_using_stack.coverage" NAME="implement_queue_using_stack Coverage Results" MODIFIED="1702428475017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks" />
   </component>
 </project>
