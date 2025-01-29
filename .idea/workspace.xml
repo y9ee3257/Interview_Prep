@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/n_queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/suduko.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ik/dynamic_programming/dynamic_programming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ik/dynamic_programming/min_sub_array_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ik/graphs/graphs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ik/graphs/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/dynamic_programming/knapsack-0-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/systems_design/systems_design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ik/systems_design/url_shortner.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ik/dynamic_programming/dynamic_programming.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ik/dynamic_programming/dynamic_programming.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +255,13 @@
       <workItem from="1725730746443" duration="10024000" />
       <workItem from="1726416829172" duration="4052000" />
       <workItem from="1726659068561" duration="251000" />
-      <workItem from="1726787282462" duration="828000" />
+      <workItem from="1726787282462" duration="8482000" />
+      <workItem from="1727529295782" duration="599000" />
+      <workItem from="1727913227643" duration="197000" />
+      <workItem from="1728836132341" duration="285000" />
+      <workItem from="1730063081999" duration="441000" />
+      <workItem from="1730085477404" duration="92000" />
+      <workItem from="1730334736349" duration="316000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,5 @@
- Arrays                      | value                                         |
------------------------------|-----------------------------------------------|
+| Arrays                      | value                                         |
+|-----------------------------|-----------------------------------------------|
 | add element                 | list.append(value)                            |
 | delete element              | list.pop()                                    |
 | length                      | len(list)                                     |
@@ -13,19 +13,19 @@
 | string array to int array   | [int(x) for x in list]                        |
 | join two arrays             | list1 + list2                                 |
 
- Strings                    | value            |
-----------------------------|------------------|
+|  Strings                   | value            |
+|----------------------------|------------------|
 | ascii value of a character | ord(char)        |
 | character from ascii       | char(ascii)      | 
 | string lower case          | string.lower()   |
 | string upper case          | string.upper()   |
 | is string a number         | stirng.isdigit() |
 
- Sorting          | value        |
-------------------|--------------| 
-| sort             | sorted(list) |
-| sort with object |              |
-| custom sort      |              |
+| Sorting          | value                                            |
+------------------|--------------------------------------------------| 
+| sort             | sorted(list)                                     |
+| sort with object | intervals.sort(key=lambda x: x.foo)              |
+| sort reverse     | intervals.sort(key=lambda x: x[0], reverse=True) |
 
  Mathemetical Functions | value     |
 ------------------------|-----------|

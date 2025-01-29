@@ -6,13 +6,21 @@ https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY
 
 https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
 
+https://www.youtube.com/watch?v=5dRGRueKU3M&list=PLJULIlvhz0rE83NKhnq7acXYIeA0o1dXb   
+
 
 Pattern Questions:   
 By learning the below pattern questions, you will be able to solve around 80 DP questions.
 
 1. 0-1 knapsack (6 variations)
-2. unbounder knapsack (5 variations)
-3. Fiboacchi sequence (7 variations)
+   1. Subset sum
+   2. Equal sum partition
+   3. count of subset sum
+   4. minimum subset sum diff
+   5. target sum
+   6. count of subset sum with give difference 
+2. unbounded knapsack (5 variations)
+3. Fibonacci sequence (7 variations)
 4. Longest Common Subsequence (15 variations)
 5. Longest Increasing Subsequence (10 variations)
 6. Kandane's Algorithm (6 variations)
@@ -21,3 +29,10 @@ By learning the below pattern questions, you will be able to solve around 80 DP 
 9. DP on Grid (14 variations)
 10. Others (5 variations)
 
+Identifying DP problem:   
+1. Question asks for optimal (max, min, count ...)
+2. you will have choice at every step (include, exclude)
+
+Do not go for tabulation as your initial approach. 
+You first need to write the recursive solution only then you will be able to come up with tabulation method.
+Try to use memoization and if time permits solve using tabulation.
