@@ -86,6 +86,7 @@ print("---------------------------------------")
 # convert the list back to string
 # to upper case
 # to lower case
+# check if char is numeric
 
 
 str = "hello this IS Ravi"
@@ -103,6 +104,7 @@ print("check if char is integer", )
 print("list to string", )
 print("to upper", )
 print("to lower", )
+print("is number",)
 print("---------------------------------------")
 
 # Stack & Queues

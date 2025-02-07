@@ -49,7 +49,7 @@ class Heap:
             if swap_index is not None:
                 self.__swap(index, swap_index)
                 self.__propagate_down(swap_index)
-        elif left is not None:
+        # elif left is not None:
 
 
 

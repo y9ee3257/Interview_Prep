@@ -11,12 +11,12 @@ Stack Trace (each stack trace will contain all the below variables stored)
 
 ***
 When to use Recursion vs Iteration
-1. If it's a divide and conquer, recursion is a best approach.  
+1. If it's a divide and conquer, by_topic.recursion is a best approach.  
 2. If it's a decrease and conquer use iteration.
 
 Example:
 
-compare factorial with iteration vs recursion
+compare factorial with iteration vs by_topic.recursion
 
 Iteration:
 ```python
@@ -35,12 +35,12 @@ def fact(num):
     fact(num-1)
 ```
 Time Complexity = O(n)  
-Space Complexity = O(n) (stack trace that takes up memory for every recursion call)
+Space Complexity = O(n) (stack trace that takes up memory for every by_topic.recursion call)
 
 For any recursive function the time complexity is equal to the number of nodes (assuming each node takes constant time).  
 The number of children in a complete binary tree = 2^n  
-But in recursion we will never have a full binary tree, it will be full until the height n/2 and will be semi filled after that.  
-So the number of nodes will be between 2^n/2 to 2^n (2^n/2 is the height until which the recursion tree will be full)
+But in by_topic.recursion we will never have a full binary tree, it will be full until the height n/2 and will be semi filled after that.  
+So the number of nodes will be between 2^n/2 to 2^n (2^n/2 is the height until which the by_topic.recursion tree will be full)
 
 Golden Ratio for fibonacci series (google it)  
 Time Complexity = (golden-ratio)^n
@@ -48,7 +48,7 @@ Time Complexity = (golden-ratio)^n
 Key Takeaways
 1. nothing is executed in parallel. Space is going to re-used.
 2. space complexity is propotional to height.
-3. Time complexity is propotional to number of nodes in the recursion tree.
+3. Time complexity is propotional to number of nodes in the by_topic.recursion tree.
 
 ***
 

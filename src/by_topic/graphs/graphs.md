@@ -11,7 +11,7 @@ Edges representation
 1. what are connected components
    1. vertices that have a relationship at some level is called a connected component in a graph.
    2. 
-2. directed vs undirected graphs
+2. directed vs undirected by_topic.graphs
 3. Adj list for directed vs un-directed graph?
    1. adj list will have twice the number of edges for undirected graph
    2. adj list will be the same number of edges for directed graph
