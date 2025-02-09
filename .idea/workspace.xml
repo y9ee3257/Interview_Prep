@@ -5,53 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/ik/find_combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/ik/letter_case_permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/ik/permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/ik/permutations_of_unique_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/ik/subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/ik/words_from_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/design_gurus/dutch_national_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/arrays/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/next_greater_elment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/remove_adjacent_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/simplify_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/sort_using_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/questions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/stack_and_queues/stock_span.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/stacks/stock_span.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/n_queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/n_queens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking/suduko.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/suduko.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/modified_binary_search/find_k_closest_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/modified_binary_search/find_k_closest_elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/modified_binary_search/first_bad_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/modified_binary_search/first_bad_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/modified_binary_search/pattern.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/modified_binary_search/pattern.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/modified_binary_search/rotated_binary_search.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/modified_binary_search/rotated_binary_search.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/modified_binary_search/rotated_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/modified_binary_search/rotated_binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/modified_binary_search/single_element_in_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/modified_binary_search/single_element_in_sorted_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/sliding_window/maximum_sliding_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/sliding_window/maximum_sliding_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/sliding_window/repeated_dna_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/sliding_window/repeated_dna_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/stacks/ valid_parenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/stacks/ valid_parenthesis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/stacks/basic_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/stacks/basic_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/stacks/implement_queue_using_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/stacks/implement_queue_using_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/stacks/minimum_remove_to_make_valid_paranthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/stacks/minimum_remove_to_make_valid_paranthesis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grokking_the_coding_interview/stacks/remove_all_adjacent_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/stacks/remove_all_adjacent_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/dynamic_programming/Dynamic-Programming-Guide.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/dynamic_programming/Dynamic-Programming-Guide.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/dynamic_programming/dynamic_programming.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/dynamic_programming/dynamic_programming.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/dynamic_programming/knapsack-0-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/dynamic_programming/knapsack-0-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/dynamic_programming/min_sub_array_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/dynamic_programming/min_sub_array_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/graphs/graphs.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/graphs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/graphs/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/ik/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/recursion/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ik/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/recursion/recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/recursion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/all_sorting_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/all_sorting_implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/attend_meetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/attend_meetings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/dutch_flag.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/dutch_flag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/find_intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/find_intersection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/segrigate_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/segrigate_even_odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/sorting_techiniques/merge_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques/merge_sort_variation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/sorting_techiniques/merge_sort_variation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/two_sum_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/two_sum_sorted_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/sorting/two_sum_unsorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ik/two_sum_unsorted_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/systems_design/systems_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems_design/systems_design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/systems_design/url_shortner.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems_design/url_shortner.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/trees/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/ik/question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ik/trees/trees.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/trees.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/python_practice/practice_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question_to_revisit/unable_to_solve.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/question_to_revisit/unable_to_solve_in_1st_attempt.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,11 +99,11 @@
       <recent name="$PROJECT_DIR$/ravi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/by_topic/heap" />
+      <recent name="$PROJECT_DIR$/src/by_topic/trees" />
+      <recent name="$PROJECT_DIR$/src/by_topic/sorting/smart_interview" />
       <recent name="$PROJECT_DIR$/src/by_topic/stacks" />
       <recent name="$PROJECT_DIR$/src/back_tracking/desing_gurus" />
-      <recent name="$PROJECT_DIR$/src/trees/ik" />
-      <recent name="$PROJECT_DIR$/src/dynamic_programming" />
-      <recent name="$PROJECT_DIR$/src/dynamic_programming/ik" />
     </key>
   </component>
   <component name="RunManager" selected="Python.dutch_national_flag">
@@ -316,7 +278,7 @@
       <workItem from="1730063081999" duration="441000" />
       <workItem from="1730085477404" duration="92000" />
       <workItem from="1730334736349" duration="316000" />
-      <workItem from="1738115719846" duration="37185000" />
+      <workItem from="1738115719846" duration="42396000" />
     </task>
     <servers />
   </component>
@@ -338,7 +300,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/sorting/ik/all_sorting_implementation.py</url>
+          <url>file://$PROJECT_DIR$/src/by_topic/sorting/ik/all_sorting_implementation.py</url>
           <line>127</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -348,7 +310,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/sorting/sorting_techiniques/merge_sort.py</url>
+          <url>file://$PROJECT_DIR$/src/by_topic/sorting/sorting_techiniques/merge_sort.py</url>
           <line>18</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

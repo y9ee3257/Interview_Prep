@@ -4,8 +4,10 @@
 # sum of an array
 # average of an array
 # represent Infinity
-# absolute value of a num
+# absolute value
 # power of number
+# square root
+# floor and ceiling
 
 arr = [15, 4, 6, 2, 0]
 print("max element", )
@@ -26,6 +28,7 @@ print("---------------------------------------")
 # get key set
 # iterate through entries
 # list to freq dict
+# iterate through entries in freq dict
 
 dict = {}
 print("after adding elements", dict)
@@ -78,6 +81,8 @@ print("---------------------------------------")
 # substring alternate chars
 # substring last 3 chars
 # replace character at index
+# replace first occurance of a char
+# replace all occurances of a char
 # convert to list
 # sort using ascii values
 # char to ascii
@@ -87,6 +92,7 @@ print("---------------------------------------")
 # to upper case
 # to lower case
 # check if char is numeric
+# split using char
 
 
 str = "hello this IS Ravi"

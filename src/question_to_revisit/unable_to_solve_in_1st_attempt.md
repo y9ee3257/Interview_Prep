@@ -13,6 +13,11 @@
 **Stacks**
 1. https://www.educative.io/courses/grokking-coding-interview-patterns-python/basic-calculator
 2. https://www.educative.io/courses/grokking-coding-interview-patterns-python/solution-exclusive-execution-time-of-functions
+3. https://leetcode.com/problems/next-greater-element-ii/description/
+4. https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/
+
+
+
 
 **Sorting**
 1. Dutch National Flag
