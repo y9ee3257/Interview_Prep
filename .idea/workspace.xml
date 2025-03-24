@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by_topic/arrays/rain_water_trapped.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/distinct_subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/generate_all_expressions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/n_queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/level_order_traversal_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/level_order_traversal_pattern/width_of_a_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/Insufficient_nodes_in_root_to_left_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/pseudo_palindromic_paths_in_bt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/smallest_string_from_leaf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_depth_pattern/height_balanced_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_depth_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/Set_1/lowest_common_ancestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/Set_1/print_all_paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/diameter_of_binarytree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/height_of_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/is_symmetric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/is_valid_bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/level_order_traversal_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/single_valued_trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/two_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/heaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/stacks_queues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sources.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/balance_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/balance_parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/n_queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/desing_gurus/n_queens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/suduko.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/desing_gurus/suduko.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/suduko.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/suduko.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/word_jumble.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/word_jumble.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/find_combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/find_combinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/letter_case_permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/letter_case_permutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/permutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/permutations_of_unique_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/permutations_of_unique_integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/words_from_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/words_from_phone_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/recursion_backtracking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/trees/trees.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/trees/trees.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_practice/practice/practice_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice/previous_answers/practice_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_practice/practice_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systems_design/systems_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems_design/systems_design.md" afterDir="false" />
-    </list>
+    <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -322,7 +276,7 @@
       <workItem from="1740533384338" duration="152000" />
       <workItem from="1740781479297" duration="4875000" />
       <workItem from="1741134290824" duration="3921000" />
-      <workItem from="1742080600356" duration="19231000" />
+      <workItem from="1742080600356" duration="19590000" />
     </task>
     <servers />
   </component>
