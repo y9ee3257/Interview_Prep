@@ -1,6 +1,4 @@
 output = []
-
-
 def helper(input_arr, slate):
     if len(input_arr) == 0:
         output.append(slate[:])

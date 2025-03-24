@@ -5,15 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by_topic/arrays/questions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/next_greater_elment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/remove_adjacent_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/simplify_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/design_gurus/sort_using_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/stacks/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/arrays/rain_water_trapped.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/distinct_subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/generate_all_expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/n_queens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/level_order_traversal_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/level_order_traversal_pattern/width_of_a_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/Insufficient_nodes_in_root_to_left_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/pseudo_palindromic_paths_in_bt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/root_to_leaf_path_pattern/smallest_string_from_leaf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_depth_pattern/height_balanced_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_depth_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/Set_1/lowest_common_ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/Set_1/print_all_paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/diameter_of_binarytree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/height_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/is_symmetric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/is_valid_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/level_order_traversal_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/single_valued_trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/two_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/heaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/stacks_queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_practice/practice/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sources.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/balance_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/balance_parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/n_queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/desing_gurus/n_queens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/suduko.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/desing_gurus/suduko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/suduko.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/suduko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/backtracking/word_jumble.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/word_jumble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/find_combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/find_combinations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/letter_case_permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/letter_case_permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/permutations_of_unique_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/permutations_of_unique_integers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/ik/words_from_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/ik/words_from_phone_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/recursion/recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/recursion_backtracking/recursion_backtracking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/trees/trees.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/trees/trees.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python_practice/practice/practice_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice/previous_answers/practice_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/python_practice/practice_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question_to_revisit/unable_to_solve.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/question_to_revisit/unable_to_solve_in_1st_attempt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/systems_design/systems_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/systems_design/systems_design.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +103,16 @@
   "keyToString": {
     "Python.all_sorting_implementation.executor": "Run",
     "Python.dutch_national_flag.executor": "Run",
+    "Python.generate_all_expressions.executor": "Run",
     "Python.insertion_sort.executor": "Run",
     "Python.merge_sort.executor": "Run",
     "Python.min_sub_array_sum.executor": "Run",
     "Python.n_queens.executor": "Run",
     "Python.permutations.executor": "Run",
     "Python.practice_1.executor": "Run",
+    "Python.single_valued_trees.executor": "Debug",
     "Python.suduko.executor": "Run",
+    "Python.two_sum.executor": "Run",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/DSA/src/python_practice",
     "node.js.detected.package.eslint": "true",
@@ -99,14 +138,14 @@
       <recent name="$PROJECT_DIR$/ravi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/python_practice/practice/" />
+      <recent name="$PROJECT_DIR$/src/python_practice/practice/previous_answers" />
+      <recent name="$PROJECT_DIR$/src/by_topic/recursion_backtracking" />
       <recent name="$PROJECT_DIR$/src/by_topic/heap" />
       <recent name="$PROJECT_DIR$/src/by_topic/trees" />
-      <recent name="$PROJECT_DIR$/src/by_topic/sorting/smart_interview" />
-      <recent name="$PROJECT_DIR$/src/by_topic/stacks" />
-      <recent name="$PROJECT_DIR$/src/back_tracking/desing_gurus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dutch_national_flag">
+  <component name="RunManager" selected="Python.single_valued_trees">
     <configuration name="dutch_national_flag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
@@ -130,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generate_all_expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,35 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic/recursion/ik" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques/merge_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="min_sub_array_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ik/dynamic_programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ik/dynamic_programming/min_sub_array_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/recursion/ik/generate_all_expressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="single_valued_trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,12 +224,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python_practice/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic/trees/ik" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/python_practice/practice/practice_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/trees/ik/single_valued_trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/two_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.single_valued_trees" />
+        <item itemvalue="Python.generate_all_expressions" />
+        <item itemvalue="Python.two_sum" />
         <item itemvalue="Python.dutch_national_flag" />
         <item itemvalue="Python.permutations" />
-        <item itemvalue="Python.practice_1" />
-        <item itemvalue="Python.merge_sort" />
-        <item itemvalue="Python.min_sub_array_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +317,12 @@
       <workItem from="1730063081999" duration="441000" />
       <workItem from="1730085477404" duration="92000" />
       <workItem from="1730334736349" duration="316000" />
-      <workItem from="1738115719846" duration="42396000" />
+      <workItem from="1738115719846" duration="49255000" />
+      <workItem from="1740232531129" duration="290000" />
+      <workItem from="1740533384338" duration="152000" />
+      <workItem from="1740781479297" duration="4875000" />
+      <workItem from="1741134290824" duration="3921000" />
+      <workItem from="1742080600356" duration="19231000" />
     </task>
     <servers />
   </component>
@@ -305,7 +349,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/by_topic/backtracking/desing_gurus/suduko.py</url>
+          <url>file://$PROJECT_DIR$/src/by_topic/recursion_backtracking/desing_gurus/suduko.py</url>
           <line>33</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -315,7 +359,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/python_practice/practice/practice_1.py</url>
+          <url>file://$PROJECT_DIR$/src/python_practice/practice/previous_answers/practice_1.py</url>
           <line>37</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -327,14 +371,17 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DSA$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1725732159100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
-    <SUITE FILE_PATH="coverage/DSA$dutch_national_flag.coverage" NAME="dutch_national_flag Coverage Results" MODIFIED="1738896003781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/design_gurus" />
     <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$n_queens.coverage" NAME="n_queens Coverage Results" MODIFIED="1725744712648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$insertion_sort.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723551850589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$min_sub_array_sum.coverage" NAME="min_sub_array_sum Coverage Results" MODIFIED="1726530281209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/dynamic_programming" />
     <SUITE FILE_PATH="coverage/DSA$implement_queue_using_stack.coverage" NAME="implement_queue_using_stack Coverage Results" MODIFIED="1702428475017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks" />
+    <SUITE FILE_PATH="coverage/DSA$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1725732159100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
+    <SUITE FILE_PATH="coverage/DSA$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1739637232213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic" />
+    <SUITE FILE_PATH="coverage/DSA$dutch_national_flag.coverage" NAME="dutch_national_flag Coverage Results" MODIFIED="1738896003781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/design_gurus" />
+    <SUITE FILE_PATH="coverage/DSA$single_valued_trees.coverage" NAME="single_valued_trees Coverage Results" MODIFIED="1742083511326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees/ik" />
+    <SUITE FILE_PATH="coverage/DSA$generate_all_expressions.coverage" NAME="generate_all_expressions Coverage Results" MODIFIED="1741309092462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/recursion/ik" />
     <SUITE FILE_PATH="coverage/DSA$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1738547556520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/recursion" />
     <SUITE FILE_PATH="coverage/DSA$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1738287926970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques" />
     <SUITE FILE_PATH="coverage/DSA$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1738461786888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python_practice/practice" />

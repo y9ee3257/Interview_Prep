@@ -7,7 +7,8 @@
 # absolute value
 # power of number
 # square root
-# floor and ceiling
+# floor value
+# ceiling value
 
 arr = [15, 4, 6, 2, 0]
 print("max element", )
@@ -17,6 +18,8 @@ print("Infinity", )
 print("Negative Infinity", )
 print("Absolute value of a number", )
 print("power of number", )
+print("floor value ", )
+print("ceil value ", )
 print("---------------------------------------")
 
 # Dict
@@ -43,9 +46,12 @@ print("---------------------------------------")
 
 # Arrays:
 # add element
+# add to the beginning of the array
+# add element at index
 # remove element
+# remove element by index
 # length
-# reverse the string
+# reverse the array
 # copy list
 # initialize with elements
 # initialize 2D array with elements
@@ -57,12 +63,14 @@ print("---------------------------------------")
 # sort by 2nd index
 # sort ascending
 # sort descending
+# remove duplicates from list of lists
 
 arr = [5, 2, 3, 6, 2, 3]
 print("after adding element", arr)
 print("after deleting last element", arr)
 print("after deleting element at index ", arr)
 print("length of array", )
+print("reverse the array",)
 print("copied to a new list", )
 print("initialize with elements", )
 print("initialize with elements", )
@@ -74,6 +82,7 @@ print("after sorting in reverse order", arr)
 arr = [("def", 6, "abc"), ("xyz", 2, "xyz"), ("abc", 3, "def"), ("uvw", 10, "uvw")]
 print("after sorting by 2nd index asc", arr)
 print("after sorting by 2nd index desc", arr)
+print("remove duplicates from list of lists",)
 print("---------------------------------------")
 
 # Strings (String are immutable)
@@ -88,11 +97,14 @@ print("---------------------------------------")
 # char to ascii
 # ascii to char
 # check if the given char is int
+# check if the given char is a letter
 # convert the list back to string
 # to upper case
 # to lower case
 # check if char is numeric
 # split using char
+# check if char is alpha
+# sort the string
 
 
 str = "hello this IS Ravi"
@@ -107,10 +119,12 @@ print("sort using ascii", )
 print("ascii value of a, A", )
 print("char from ascii", )
 print("check if char is integer", )
+print("check if char is a letter", )
 print("list to string", )
 print("to upper", )
 print("to lower", )
 print("is number",)
+print("sort any string",)
 print("---------------------------------------")
 
 # Stack & Queues
@@ -164,8 +178,11 @@ print("---------------------------------------")
 # for loop using range
 # for loop using enumerate
 # check if value is string/boolean/int
+# evaluate expression from a string (like "2+3-5")
 
 print("ternary if", )
 print("is integer", )
 print("is boolean", )
 print("is boolean", )
+print("evaluate string expression")
+

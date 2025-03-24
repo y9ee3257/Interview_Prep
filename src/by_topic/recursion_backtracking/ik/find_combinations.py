@@ -38,8 +38,9 @@
 # 1 <= n <= 20
 # 1 <= k <= n
 
+output = []
 
-output =[]
+
 def find_combinations(n, k):
     """
     Args:
@@ -49,12 +50,11 @@ def find_combinations(n, k):
      list_list_int32
     """
     # Write your code here.
-    helper(n ,k ,1 ,[])
+    helper(n, k, 1, [])
     return output
 
 
-
-def helper(n ,k ,index ,slate):
+def helper(n, k, index, slate):
     if len(slate) == k:
         output.append(slate[:])
         return
@@ -62,7 +62,7 @@ def helper(n ,k ,index ,slate):
         return
 
     slate.append(index)
-    helper(n ,k ,index +1 ,slate)
+    helper(n, k, index + 1, slate)
     slate.pop()
 
-    helper(n ,k ,index +1 ,slate)
+    helper(n, k, index + 1, slate)
