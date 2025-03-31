@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="" />
+    <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/behavioural_inteview/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/all_nodes_with_distance_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/jump_game_III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/shortest_alternate_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/shortest_path_in_binary_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/word_ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/graph_theory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/matrix_graphs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/minimum_spanning_tree/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/shortest_path_in_graph/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/topological_sort/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/union_find_dsu/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/isomorphic_trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/subtree_of_another_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/symmetric_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/leaf_processing_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/create_binary_tree_by_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/seralize_deserialize_n_array_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/verify_pre_order_serialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/bottom_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/boundary_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/top_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/tree_traversals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/interview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_practice/cheatsheet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python_practice/practice_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python_practice/python_cheatsheet.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +101,13 @@
     "Python.n_queens.executor": "Run",
     "Python.permutations.executor": "Run",
     "Python.practice_1.executor": "Run",
+    "Python.python raise Exception(&quot;Queue is empty&quot;).executor": "Run",
     "Python.single_valued_trees.executor": "Debug",
     "Python.suduko.executor": "Run",
+    "Python.tree_traversals.executor": "Run",
     "Python.two_sum.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/DSA/src/python_practice",
+    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/DSA/src/by_topic/graphs/design_gurus/union_find_dsu",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,8 +127,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/python_practice" />
-      <recent name="$PROJECT_DIR$/ravi" />
+      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/union_find_dsu" />
+      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/topological_sort" />
+      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/shortest_path_in_graph" />
+      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/minimum_spanning_tree" />
+      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/matrix_graphs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/python_practice/practice/" />
@@ -99,30 +141,7 @@
       <recent name="$PROJECT_DIR$/src/by_topic/trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.single_valued_trees">
-    <configuration name="dutch_national_flag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ik/sorting/design_gurus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ik/sorting/design_gurus/dutch_national_flag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;)">
     <configuration name="generate_all_expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
@@ -146,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python raise Exception(&amp;quot;Queue is empty&amp;quot;)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DSA" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,13 +174,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ik/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ik/recursion/permutations.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="raise" />
+      <option name="PARAMETERS" value="Exception(&amp;quot;Queue is empty&amp;quot;)" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -184,6 +203,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/trees/ik/single_valued_trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tree_traversals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic/trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/trees/tree_traversals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;)" />
+        <item itemvalue="Python.tree_traversals" />
         <item itemvalue="Python.single_valued_trees" />
         <item itemvalue="Python.generate_all_expressions" />
         <item itemvalue="Python.two_sum" />
-        <item itemvalue="Python.dutch_national_flag" />
-        <item itemvalue="Python.permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -276,12 +318,24 @@
       <workItem from="1740533384338" duration="152000" />
       <workItem from="1740781479297" duration="4875000" />
       <workItem from="1741134290824" duration="3921000" />
-      <workItem from="1742080600356" duration="19590000" />
+      <workItem from="1742080600356" duration="32608000" />
+      <workItem from="1743194737284" duration="16369000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -325,6 +379,7 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA$tree_traversals.coverage" NAME="tree_traversals Coverage Results" MODIFIED="1743166544640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$n_queens.coverage" NAME="n_queens Coverage Results" MODIFIED="1725744712648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
@@ -334,6 +389,7 @@
     <SUITE FILE_PATH="coverage/DSA$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1725732159100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1739637232213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic" />
     <SUITE FILE_PATH="coverage/DSA$dutch_national_flag.coverage" NAME="dutch_national_flag Coverage Results" MODIFIED="1738896003781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/design_gurus" />
+    <SUITE FILE_PATH="coverage/DSA$python_raise_Exception__quot_Queue_is_empty_quot__.coverage" NAME="python raise Exception(&amp;quot;Queue is empty&amp;quot;) Coverage Results" MODIFIED="1743375475085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python_practice" />
     <SUITE FILE_PATH="coverage/DSA$single_valued_trees.coverage" NAME="single_valued_trees Coverage Results" MODIFIED="1742083511326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees/ik" />
     <SUITE FILE_PATH="coverage/DSA$generate_all_expressions.coverage" NAME="generate_all_expressions Coverage Results" MODIFIED="1741309092462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/recursion/ik" />
     <SUITE FILE_PATH="coverage/DSA$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1738547556520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/recursion" />

@@ -31,7 +31,9 @@ print("---------------------------------------")
 # get key set
 # iterate through entries
 # list to freq dict
-# iterate through entries in freq dict
+# iterate through entries in freq dic
+# using default dict
+
 
 dict = {}
 print("after adding elements", dict)
@@ -154,6 +156,8 @@ print("---------------------------------------")
 lst = [5,4,6,3,9]
 print("sort ascending",)
 print("sort descending",)
+print("add elements")
+print("remove elements")
 print("top k elements",)
 print("bottom k elements",)
 tasks = [(6, "abc"), (2, "xyz"), (2, "def"), (10, "uvw")]
@@ -171,6 +175,11 @@ print("after removing a number from set", )
 print("after removing recently added value", )
 print("length of set ", )
 print("---------------------------------------")
+
+# bisect
+# find element using binary search
+# find the 1st occurrence of a number in a sorted list
+# find the last occurrence of a number in a sorted list
 
 
 # Misc
