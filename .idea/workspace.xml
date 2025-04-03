@@ -5,42 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioural_inteview/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/all_nodes_with_distance_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/jump_game_III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/shortest_alternate_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/shortest_path_in_binary_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/word_ladder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/graph_theory/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/matrix_graphs/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/minimum_spanning_tree/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/shortest_path_in_graph/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/topological_sort/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/union_find_dsu/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/isomorphic_trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/subtree_of_another_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/compare_two_trees_pattern/symmetric_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/leaf_processing_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/create_binary_tree_by_description.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/seralize_deserialize_n_array_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/serialize_deserialize_pattern/verify_pre_order_serialization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/bottom_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/boundary_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/design_gurus/tree_view_pattern/top_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/tree_traversals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/feedback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_practice/cheatsheet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_company/google/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_company/meta/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_company/netflix/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/bus_routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/the_maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/can_visit_all_rooms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_practice/practice_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_practice/practice_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_practice/python_cheatsheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_interviews/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,11 +108,11 @@
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/matrix_graphs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/mock_interviews/dsa" />
       <recent name="$PROJECT_DIR$/src/python_practice/practice/" />
       <recent name="$PROJECT_DIR$/src/python_practice/practice/previous_answers" />
       <recent name="$PROJECT_DIR$/src/by_topic/recursion_backtracking" />
       <recent name="$PROJECT_DIR$/src/by_topic/heap" />
-      <recent name="$PROJECT_DIR$/src/by_topic/trees" />
     </key>
   </component>
   <component name="RunManager" selected="Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;)">
@@ -319,7 +293,7 @@
       <workItem from="1740781479297" duration="4875000" />
       <workItem from="1741134290824" duration="3921000" />
       <workItem from="1742080600356" duration="32608000" />
-      <workItem from="1743194737284" duration="16369000" />
+      <workItem from="1743194737284" duration="17959000" />
     </task>
     <servers />
   </component>

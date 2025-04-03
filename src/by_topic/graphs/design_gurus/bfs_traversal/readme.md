@@ -53,6 +53,9 @@ if __name__ == "__main__":
 3. https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 4. https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
 5. https://leetcode.com/problems/word-ladder/description/
+6. https://leetcode.com/problems/bus-routes/description/
+
 ### Practice Again
 1. https://leetcode.com/problems/shortest-path-with-alternating-colors/description/
 2. https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+3. https://leetcode.com/problems/bus-routes/description/
