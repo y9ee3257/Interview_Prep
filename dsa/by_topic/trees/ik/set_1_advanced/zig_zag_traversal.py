@@ -1,5 +1,6 @@
+
 """
-Given a binary tree, list the node values level by level from left to right.
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
 """
 
 """
@@ -10,15 +11,13 @@ class BinaryTreeNode:
         self.left = None
         self.right = None
 """
-def level_order_traversal(root):
+def zigzag_level_order_traversal(root):
     """
     Args:
      root(BinaryTreeNode_int32)
     Returns:
      list_list_int32
     """
-
-
     from collections import deque
 
     if not root:
@@ -27,6 +26,7 @@ def level_order_traversal(root):
     q = deque()
     q.append(root)
     output = []
+    is_even_level = False
     while len(q) > 0:
         row_size = len(q)
         row = []
@@ -38,7 +38,9 @@ def level_order_traversal(root):
                 q.append(node.left)
             if node.right:
                 q.append(node.right)
+        if is_even_level:
+            row.reverse()
         output.append(row)
+        is_even_level = not is_even_level
 
     return output
-

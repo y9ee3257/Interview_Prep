@@ -1,6 +1,5 @@
-""""
-Given a binary tree, check whether it is a mirror of itself i.e. symmetric around its centre.
-
+"""
+https://leetcode.com/problems/symmetric-tree/description/
 """
 
 """
@@ -26,9 +25,20 @@ def check_if_symmetric(root):
         # when both nodes are null, return True
         if not node1 and not node2:
             return True
+
         # when only one node is null, return False, if values are not equal, return False
         if not node1 or not node2 or node1.value != node2.value:
             return False
-        return helper(node1.left, node2.right) and helper(node1.right ,node2.left)
 
-    return helper(root.left ,root.right)
+        return helper(node1.left, node2.right) and helper(node1.right,node2.left)
+
+
+
+    return helper(root.left,root.right)
+
+
+
+
+
+
+

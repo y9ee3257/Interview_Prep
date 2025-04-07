@@ -1,33 +1,6 @@
-""""
-Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
-
-The LCA of nodes a and b in a tree is defined as the shared ancestor node of a and b that is located farthest from the root of the tree.
-
-Example
-Example one
-
-a = 8, b = 9
-
-Output:
-
-5
-There are three shared parents of 8 and 9 in this tree: 5, 2, 1. Of those three, the farthest from the root is 5.
-
-Other examples:
-LCA(2, 5) = 2
-LCA(2, 3) = 1
-
-Notes
-A node is considered its own ancestor and its own descendant.
-Return the value of the LCA node of the two given nodes.
-Constraints:
-
-1 <= number of nodes <= 100000
-1 <= node value <= number of nodes
-Node values are unique
 """
-
-
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+"""
 
 """
 For your reference:
@@ -37,6 +10,8 @@ class BinaryTreeNode:
         self.left = None
         self.right = None
 """
+
+
 def lca(root, a, b):
     """
     Args:
@@ -50,7 +25,7 @@ def lca(root, a, b):
     if not root:
         return None
 
-    a_arr =[]
+    a_arr = []
     b_arr = []
 
     def helper(slate, node):
@@ -80,5 +55,3 @@ def lca(root, a, b):
         result = a_arr[i]
 
     return result
-
-

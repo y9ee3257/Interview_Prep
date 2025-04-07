@@ -5,31 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/design_gurus/two_heap_pattern/median_of_number_stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/design_gurus/two_heap_pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/neetcode/median_of_data_stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/neetcode/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/neetcode/task_scheduling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/set_1_advanced/convert_binary_tree_to_circular_double_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/solutions/check_complete_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/solutions/find_unique_values_in_sorted_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/solutions/top_view_of_a_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/solutions/convert_binary_tree_to_circular_double_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/solutions/single_element_in_sorted_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_3_with_steven_kisely_April13/feedback.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Interview_Prep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/find_max_width_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/flip_a_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/lowest_common_ancestor_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/merge_bsts_to_single_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/post_order_traversal_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/print_all_paths_of_a_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/vertical_order_traversal_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/zig_zag_traversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/can_visit_all_rooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/can_visit_all_rooms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/trees/ik/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/trees/trees.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/trees/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/arrays/two_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/feedback.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/interview.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mock_interviews/dsa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +59,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/y9ee3257/DSA.git&quot;,
-    &quot;accountId&quot;: &quot;c6041c29-0251-42f3-a5ce-0b635f603412&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/y9ee3257/Interview_Prep.git",
+    "accountId": "c6041c29-0251-42f3-a5ce-0b635f603412"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -91,44 +76,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.all_sorting_implementation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dutch_national_flag.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generate_all_expressions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.insertion_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.min_sub_array_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.n_queens.executor&quot;: &quot;Run&quot;,
-    &quot;Python.permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;).executor&quot;: &quot;Run&quot;,
-    &quot;Python.single_valued_trees.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.suduko.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tree_traversals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ravitejathummala/IdeaProjects/DSA/src/by_topic/trees/ik/set_1_advanced&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.all_sorting_implementation.executor": "Run",
+    "Python.dutch_national_flag.executor": "Run",
+    "Python.generate_all_expressions.executor": "Run",
+    "Python.insertion_sort.executor": "Run",
+    "Python.merge_sort.executor": "Run",
+    "Python.min_sub_array_sum.executor": "Run",
+    "Python.n_queens.executor": "Run",
+    "Python.permutations.executor": "Run",
+    "Python.practice_1.executor": "Run",
+    "Python.python raise Exception(&quot;Queue is empty&quot;).executor": "Run",
+    "Python.single_valued_trees.executor": "Debug",
+    "Python.suduko.executor": "Run",
+    "Python.tree_traversals.executor": "Run",
+    "Python.two_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/Interview_Prep",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/by_topic/trees/ik/set_1_advanced" />
@@ -138,11 +123,11 @@
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/shortest_path_in_graph" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/by_topic/arrays" />
       <recent name="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_Sanjeev_Qazi_April6/solutions" />
       <recent name="$PROJECT_DIR$/src/mock_interviews/dsa" />
       <recent name="$PROJECT_DIR$/src/python_practice/practice/" />
-      <recent name="$PROJECT_DIR$/src/python_practice/practice/previous_answers" />
     </key>
   </component>
   <component name="RunManager" selected="Python.generate_all_expressions">

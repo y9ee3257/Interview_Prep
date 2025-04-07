@@ -1,16 +1,7 @@
+
 """
-Given a binary tree, return all paths from root to leaf.
-            1
-           /\
-          2  3
-         /\  /\
-       4  5 6  7
-[
-[1, 2, 4],
-[1, 2, 5],
-[1, 3, 6],
-[1, 3, 7]
-]
+1. https://leetcode.com/problems/binary-tree-paths/description/
+
 """
 
 """
@@ -21,8 +12,6 @@ class BinaryTreeNode:
         self.left = None
         self.right = None
 """
-
-
 def all_paths_of_a_binary_tree(root):
     """
     Args:
@@ -36,7 +25,6 @@ def all_paths_of_a_binary_tree(root):
         return []
 
     output = []
-
     def helper(slate, node):
         if not node.left and not node.right:
             output.append(slate[:])
@@ -53,4 +41,7 @@ def all_paths_of_a_binary_tree(root):
 
     helper([root.value], root)
     return output
+
+
+
 
