@@ -163,7 +163,6 @@ e.g. K = O(log N)
      K = O(sqrt (sqrt(N)))
 """
 
-
 def find_unique(arr):
     if not arr:
         return 0
@@ -193,32 +192,4 @@ def find_unique(arr):
 
     return output
 
-
 print(find_unique([4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6]))
-
-
-
-
-# Actual Solution for the above problem, coded after the interview
-from bisect import bisect_right
-
-def find_unique2(arr):
-    index =0
-    count = 0
-    while index < len(arr):
-        val = arr[index]
-        count+=1
-        index = bisect_right(arr,val,index,len(arr))
-    return count
-
-
-
-
-
-
-
-
-
-
-
-

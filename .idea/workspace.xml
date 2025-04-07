@@ -5,16 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by_company/google/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_company/meta/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_company/netflix/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/bus_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/the_maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/can_visit_all_rooms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/design_gurus/two_heap_pattern/median_of_number_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/design_gurus/two_heap_pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/neetcode/median_of_data_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/neetcode/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/heap/neetcode/task_scheduling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/set_1_advanced/convert_binary_tree_to_circular_double_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/solutions/check_complete_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/solutions/find_unique_values_in_sorted_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/solutions/top_view_of_a_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/interview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/solutions/convert_binary_tree_to_circular_double_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/solutions/single_element_in_sorted_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_3_with_steven_kisely_April13/feedback.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Interview_Prep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/bfs_traversal/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/can_visit_all_rooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/can_visit_all_rooms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/dfs_traversal/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mock_interviews/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/trees/ik/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/trees/ik/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/trees/trees.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/trees/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by_topic/two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/by_topic/arrays/two_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/feedback.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/interview_1_with_TO_March30/interview.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock_interviews/dsa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock_interviews/dsa/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +60,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;y9ee3257&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -53,6 +74,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/y9ee3257/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;c6041c29-0251-42f3-a5ce-0b635f603412&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -80,17 +107,20 @@
     "Python.suduko.executor": "Run",
     "Python.tree_traversals.executor": "Run",
     "Python.two_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/DSA/src/by_topic/graphs/design_gurus/union_find_dsu",
+    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/DSA/src/by_topic/trees/ik/set_1_advanced",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -101,23 +131,56 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/by_topic/trees/ik/set_1_advanced" />
+      <recent name="$PROJECT_DIR$/src/mock_interviews/dsa/interview_3_with_steven_kisely_April13" />
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/union_find_dsu" />
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/topological_sort" />
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/shortest_path_in_graph" />
-      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/minimum_spanning_tree" />
-      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/matrix_graphs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/by_topic/arrays" />
+      <recent name="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_Sanjeev_Qazi_April6/solutions" />
       <recent name="$PROJECT_DIR$/src/mock_interviews/dsa" />
       <recent name="$PROJECT_DIR$/src/python_practice/practice/" />
       <recent name="$PROJECT_DIR$/src/python_practice/practice/previous_answers" />
-      <recent name="$PROJECT_DIR$/src/by_topic/recursion_backtracking" />
-      <recent name="$PROJECT_DIR$/src/by_topic/heap" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;)">
+  <component name="RunManager" selected="Python.generate_all_expressions">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Interview_Prep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Interview_Prep" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="generate_all_expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
+      <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +203,7 @@
       <method v="2" />
     </configuration>
     <configuration name="python raise Exception(&amp;quot;Queue is empty&amp;quot;)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DSA" />
+      <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +226,7 @@
       <method v="2" />
     </configuration>
     <configuration name="single_valued_trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
+      <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,7 +249,7 @@
       <method v="2" />
     </configuration>
     <configuration name="tree_traversals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
+      <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +272,7 @@
       <method v="2" />
     </configuration>
     <configuration name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
+      <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,7 +285,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/two_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/arrays/two_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,23 +294,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;)" />
-        <item itemvalue="Python.tree_traversals" />
-        <item itemvalue="Python.single_valued_trees" />
-        <item itemvalue="Python.generate_all_expressions" />
-        <item itemvalue="Python.two_sum" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
-      </set>
-    </attachedChunks>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -293,7 +385,7 @@
       <workItem from="1740781479297" duration="4875000" />
       <workItem from="1741134290824" duration="3921000" />
       <workItem from="1742080600356" duration="32608000" />
-      <workItem from="1743194737284" duration="17959000" />
+      <workItem from="1743194737284" duration="19596000" />
     </task>
     <servers />
   </component>
@@ -321,32 +413,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/by_topic/sorting/ik/all_sorting_implementation.py</url>
-          <line>127</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/by_topic/recursion_backtracking/desing_gurus/suduko.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/by_topic/sorting/sorting_techiniques/merge_sort.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/python_practice/practice/previous_answers/practice_1.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
