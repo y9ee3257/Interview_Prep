@@ -56,6 +56,7 @@ class Solution:
 2. https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/
 3. https://leetcode.com/problems/create-binary-tree-from-descriptions/
 4. https://www.geeksforgeeks.org/serialize-deserialize-n-ary-tree/
+
 ### Practice Again
 1. https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
 2. https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/

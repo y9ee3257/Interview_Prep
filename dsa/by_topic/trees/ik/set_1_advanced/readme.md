@@ -1,5 +1,4 @@
 ## Problems
-
 1. https://leetcode.com/problems/binary-tree-paths/description/
 2. https://www.geeksforgeeks.org/flip-binary-tree/
 3. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/
@@ -11,8 +10,14 @@
 9. https://leetcode.com/problems/maximum-width-of-binary-tree/description/
 10. https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/
 11. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
-
+12. https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/
+13. https://leetcode.com/problems/path-sum-ii/description/
+14. https://leetcode.com/problems/binary-tree-right-side-view/
+15. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
 
 ## Practice Again
 1. https://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/
 2. https://leetcode.com/problems/maximum-width-of-binary-tree/description/
+3. https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/
+4. https://leetcode.com/problems/path-sum-ii/description/
+5. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/

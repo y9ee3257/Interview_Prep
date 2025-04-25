@@ -61,4 +61,8 @@ Solution.main()
 
 ### Problems
 1. https://leetcode.com/problems/keys-and-rooms/description/
-2. 
+2. https://leetcode.com/problems/all-paths-from-source-to-target/description/
+3. https://leetcode.com/problems/find-eventual-safe-states/description/
+
+### Practice Again
+1. https://leetcode.com/problems/find-eventual-safe-states/description/

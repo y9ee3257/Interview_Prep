@@ -19,7 +19,8 @@
    1. Not everyone use all the components in the systems design, just make sure you know how it works and give tradeoffs (important).
    2. Have conversational practice, you can use ChatGPT for this.
    
-### Interviewer Feedback
+### Feedback from IK portal
+```
 Topics Covered
 Trees
 Problem Text
@@ -100,3 +101,4 @@ Candidate Strengths
 Solved 3 questions is amazing. Technically strong.
 Additional Feedback
 Work on communications that involves addressing trades-offs and multiple options to solve questions instead of just one best optimal approach.
+```

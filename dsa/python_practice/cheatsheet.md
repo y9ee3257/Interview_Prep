@@ -5,7 +5,7 @@
 3. `min(3, 5)`  # minimum of two numbers
 4. `float("inf")`  # infinite value
 5. `pow(2, 3)`  # 2^3
-
+6. `int(binary_number_string, base)` # binary to int
 **Arrays**
 
 1. `string_to_int_array = [int(x) for x in string_array]`
@@ -21,8 +21,7 @@
 3. `chr(97)`  # get character from ASCII value
 4. `string.lower()`  # convert to lowercase
 5. `string.upper()`  # convert to uppercase
-6. `char.isdigit()`  # check if a character is a digit
-
+6. `char.isdigit()`  # check if a character is a digi
 **Dictionaries**
 
 1. `del dict["a"]`  # delete key if you know it exists

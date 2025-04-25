@@ -29,7 +29,8 @@
 
 
 ### Systems Design
-1. https://www.designgurus.io/path/system-design-interview-playbook
+1. https://www.youtube.com/playlist?list=PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ
+2. https://www.designgurus.io/path/system-design-interview-playbook
 2. https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 3. https://www.youtube.com/watch?v=lX4CrbXMsNQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf
 

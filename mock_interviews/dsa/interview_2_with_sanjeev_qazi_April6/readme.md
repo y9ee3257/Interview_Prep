@@ -5,8 +5,8 @@
    1. https://codebunk.com/b/2641100708299/
 
 
-## Feedback from Interviewer
-
+## Feedback from IK portal
+```
 Topics Covered
 Trees
 Problem Text
@@ -59,3 +59,4 @@ Candidate Strengths
 Good communication. Good job proactively calling out time and space. Had the right intuition, but conversion to code became the blocking step
 Additional Feedback
 Please try the Number occurring once problem ( looking for a solution : time log N, space constant ) And let me know if any questions ( my email is in the invite). Maybe I will see u in another mock. Good job proactively talking about time and space. Note that if the tree is completely skewed, space will be linear ( and for a recursive solution, will not scale to a big tree as it will run out of stack space…these are good points to mention). Should read question carefully. Looks like you didn’t look at the examples, this sometimes happens because we are conscious of the short time and in a hurry. We walked thru how we could solve this problem. Convert BT to CDLL: Time: N Space: log N. But this is best case, worst case will be linear O (N) if tree is completey skewed
+```
