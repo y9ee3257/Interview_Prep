@@ -5,73 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/dfs_traversal/all_paths_from_source_to_target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/dfs_traversal/find_eventual_safe_states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/combination_target_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/combinations_of_a_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/n_queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/palindrome_partitioning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/subsets-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/neetcode/subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/sliding_window/neetcode/buy_and_sell_crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/sliding_window/neetcode/longest_repeating_substring_with_replacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/sliding_window/neetcode/longest_substring_without_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/sliding_window/neetcode/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/bst_from_in_order_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/linked_list_to_balanced_bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/path_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/right_view_of_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/binary_tree_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/construct_binary_tree_from_inorder_preorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/count_number_of_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/distribute_coins_in_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/find_k_closest_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/find_leaves_of_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/find_the_largest_bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/invert_a_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/is_tree_balanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/nodes_at_a_given_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/populate_sibling_pointer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/range_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/shortest_path_between_two_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_2_advanced/sum_root_to_leaf_binary_nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/neetcode/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/neetcode/trapping_rain_water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/neetcode/valid_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/decode_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/zombie_convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_4_with_sanjeev_qazi_April20/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_4_with_sanjeev_qazi_April20/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_template/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_template/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_1_foundations_of_data_systems.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/column_compression.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/column_storage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/etl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/etl_star_snowflake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/read_write_schema.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_company/meta/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_company/meta/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/dynamic_programming.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/dfs_traversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/dfs_traversal/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/balance_parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/ik/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/ik/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/recursion_backtracking.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/suduko.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/recursion_backtracking/word_jumble.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/sorting/ik/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/sorting/ik/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/stacks/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/stacks/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/trees/design_gurus/serialize_deserialize_pattern/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/trees/design_gurus/serialize_deserialize_pattern/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/trees/ik/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/trees/ik/set_1_advanced/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/trees/tree_traversals.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/trees/tree_traversals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/python_practice/cheatsheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/python_practice/cheatsheet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_interviews/dsa/interview_1_with_TO_March30/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_1_with_TO_March30/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_2_with_sanjeev_qazi_April6/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/feedback.md" beforeDir="false" afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_interviews/dsa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/mock_interviews/dsa/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources.md" beforeDir="false" afterPath="$PROJECT_DIR$/sources.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_1_foundations_of_data_systems.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_1_foundations_of_data_systems.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +82,7 @@
     "Python.dutch_national_flag.executor": "Run",
     "Python.generate_all_expressions.executor": "Run",
     "Python.insertion_sort.executor": "Run",
+    "Python.interview.executor": "Run",
     "Python.merge_sort.executor": "Run",
     "Python.min_sub_array_sum.executor": "Run",
     "Python.n_queens.executor": "Run",
@@ -182,14 +125,14 @@
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/topological_sort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/systems_design/images" />
+      <recent name="$PROJECT_DIR$/systems_design/etl" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/by_topic/arrays" />
       <recent name="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_Sanjeev_Qazi_April6/solutions" />
-      <recent name="$PROJECT_DIR$/src/mock_interviews/dsa" />
-      <recent name="$PROJECT_DIR$/src/python_practice/practice/" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.decode_string">
+  <component name="RunManager" selected="Python.interview">
     <configuration name="decode_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
@@ -212,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="single_valued_trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,12 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic/trees/ik" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/trees/ik/single_valued_trees.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,6 +247,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.interview" />
         <item itemvalue="Python.decode_string" />
         <item itemvalue="Python.zombie_convert" />
       </list>
