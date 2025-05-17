@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/column_compression.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/column_storage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/etl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/etl_star_snowflake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/read_write_schema.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_2_distributed_data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/monotonic_reads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/partitions_global_secondary_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/partitions_secondary_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_consistent_prefix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_multi_leader_multiple_datacenters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_multileader_topologies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_quorum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_read_your_own_writes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_synchronous_asynchronous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_write_conflict.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_1_foundations_of_data_systems.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_1_foundations_of_data_systems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
