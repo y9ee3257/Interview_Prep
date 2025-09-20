@@ -5,19 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/systems_design/designing_data_intensive_applications/part_2_distributed_data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/monotonic_reads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/partitions_global_secondary_index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/partitions_secondary_index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_consistent_prefix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_multi_leader_multiple_datacenters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_multileader_topologies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_quorum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_read_your_own_writes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_synchronous_asynchronous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/replication_write_conflict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/blind75/arrays/longest_consecutive_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/blind75/arrays/top_k_elements_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/blind75/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/blind75/two_pointer/max_water_in_container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/find_if_path_exists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/find_town_judge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/max_network_rank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/min_vertices_to_reach_all_trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/valid_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/count_islands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/max_area_of_island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/nearest_exit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/nearest_zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/number_of_enclaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/pacific_atlantic_water_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/topological_sort/course_schedule_ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/accounts_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/disjoint_set_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/is_graph_bipartite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/most_stones_removed_with_same_rowcol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/possible_bipartition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/satisfiability_of_equality_equations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/similar_string_group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/design_gurus/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/design_gurus/valid_palindrome2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/take_u_forward_youtube_channel/assign_cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/take_u_forward_youtube_channel/lemonade_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/take_u_forward_youtube_channel/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/conflicting_appointments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/employee_free_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/insert_interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/intervals_intersections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/max_cpu_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/merge_intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/minimum_meeting_rooms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/dutch_national_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/three_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/three_sum_close_to_target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/two_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_6_with_sanjeev_qazi_June15/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/mock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_2_terry_yung_June29/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_3_with_anthony_hartmann_Aug10/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_4_with_terry_yung_Sep_7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/arrays/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/arrays/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/topological_sort/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/topological_sort/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/systems_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/systems_design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/url_shortner.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +112,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/y9ee3257/Interview_Prep.git",
-    "accountId": "c6041c29-0251-42f3-a5ce-0b635f603412"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/y9ee3257/Interview_Prep.git&quot;,
+    &quot;accountId&quot;: &quot;c6041c29-0251-42f3-a5ce-0b635f603412&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -79,64 +129,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.all_sorting_implementation.executor": "Run",
-    "Python.decode_string.executor": "Run",
-    "Python.dutch_national_flag.executor": "Run",
-    "Python.generate_all_expressions.executor": "Run",
-    "Python.insertion_sort.executor": "Run",
-    "Python.interview.executor": "Run",
-    "Python.merge_sort.executor": "Run",
-    "Python.min_sub_array_sum.executor": "Run",
-    "Python.n_queens.executor": "Run",
-    "Python.permutations.executor": "Run",
-    "Python.practice_1.executor": "Run",
-    "Python.python raise Exception(&quot;Queue is empty&quot;).executor": "Run",
-    "Python.single_valued_trees.executor": "Debug",
-    "Python.suduko.executor": "Run",
-    "Python.tree_traversals.executor": "Run",
-    "Python.two_sum.executor": "Run",
-    "Python.zombie_convert.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/Interview_Prep/mock_interviews/dsa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.all_sorting_implementation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decode_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.disjoint_set_impl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dutch_national_flag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_all_expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insertion_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interview.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_sub_array_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.n_queens.executor&quot;: &quot;Run&quot;,
+    &quot;Python.permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;).executor&quot;: &quot;Run&quot;,
+    &quot;Python.single_valued_trees.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.suduko.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tree_traversals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zombie_convert.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ravitejathummala/IdeaProjects/Interview_Prep/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6" />
       <recent name="$PROJECT_DIR$/mock_interviews/dsa" />
       <recent name="$PROJECT_DIR$/src/by_topic/trees/ik/set_1_advanced" />
       <recent name="$PROJECT_DIR$/src/mock_interviews/dsa/interview_3_with_steven_kisely_April13" />
       <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/union_find_dsu" />
-      <recent name="$PROJECT_DIR$/src/by_topic/graphs/design_gurus/topological_sort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/systems_design/images" />
-      <recent name="$PROJECT_DIR$/systems_design/etl" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/by_topic/arrays" />
-      <recent name="$PROJECT_DIR$/src/mock_interviews/dsa/interview_2_with_Sanjeev_Qazi_April6/solutions" />
+      <recent name="$PROJECT_DIR$/systems_design/patterns" />
+      <recent name="$PROJECT_DIR$/systems_design/patterns/readme.md" />
+      <recent name="$PROJECT_DIR$/systems_design/readme.md" />
+      <recent name="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.interview">
+  <component name="RunManager" selected="Python.mock">
     <configuration name="decode_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
@@ -150,7 +202,77 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/decode_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decode_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/decode_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="disjoint_set_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/disjoint_set_impl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="disjoint_set_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/disjoint_set_impl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,6 +294,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -181,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tree_traversals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,12 +313,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic/trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/trees/tree_traversals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/mock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,6 +386,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/zombie_convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zombie_convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Prep" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/zombie_convert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -251,11 +421,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mock" />
+        <item itemvalue="Python.disjoint_set_impl" />
         <item itemvalue="Python.interview" />
         <item itemvalue="Python.decode_string" />
         <item itemvalue="Python.zombie_convert" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -302,6 +482,14 @@
       <workItem from="1741134290824" duration="3921000" />
       <workItem from="1742080600356" duration="32608000" />
       <workItem from="1743194737284" duration="19596000" />
+      <workItem from="1749162748671" duration="25000" />
+      <workItem from="1749498096382" duration="1428000" />
+      <workItem from="1749820265507" duration="6191000" />
+      <workItem from="1750160148635" duration="862000" />
+      <workItem from="1750597731158" duration="7171000" />
+      <workItem from="1751813957790" duration="4086000" />
+      <workItem from="1756332665516" duration="7572000" />
+      <workItem from="1757704420412" duration="11990000" />
     </task>
     <servers />
   </component>
@@ -335,8 +523,8 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DSA$tree_traversals.coverage" NAME="tree_traversals Coverage Results" MODIFIED="1743166544640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
+    <SUITE FILE_PATH="coverage/DSA$tree_traversals.coverage" NAME="tree_traversals Coverage Results" MODIFIED="1743166544640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$n_queens.coverage" NAME="n_queens Coverage Results" MODIFIED="1725744712648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$insertion_sort.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723551850589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
@@ -348,6 +536,7 @@
     <SUITE FILE_PATH="coverage/DSA$python_raise_Exception__quot_Queue_is_empty_quot__.coverage" NAME="python raise Exception(&amp;quot;Queue is empty&amp;quot;) Coverage Results" MODIFIED="1743375475085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python_practice" />
     <SUITE FILE_PATH="coverage/DSA$single_valued_trees.coverage" NAME="single_valued_trees Coverage Results" MODIFIED="1742083511326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees/ik" />
     <SUITE FILE_PATH="coverage/DSA$generate_all_expressions.coverage" NAME="generate_all_expressions Coverage Results" MODIFIED="1741309092462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/recursion/ik" />
+    <SUITE FILE_PATH="coverage/Interview_Prep$mock.coverage" NAME="mock Coverage Results" MODIFIED="1751816172766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mock_interviews" />
     <SUITE FILE_PATH="coverage/DSA$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1738547556520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/recursion" />
     <SUITE FILE_PATH="coverage/DSA$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1738287926970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques" />
     <SUITE FILE_PATH="coverage/DSA$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1738461786888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python_practice/practice" />
