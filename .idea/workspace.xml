@@ -5,69 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/blind75/arrays/longest_consecutive_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/blind75/arrays/top_k_elements_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/blind75/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/blind75/two_pointer/max_water_in_container.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/find_if_path_exists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/find_town_judge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/max_network_rank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/min_vertices_to_reach_all_trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/valid_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/count_islands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/max_area_of_island.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/nearest_exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/nearest_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/number_of_enclaves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/pacific_atlantic_water_flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/topological_sort/course_schedule_ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/accounts_merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/disjoint_set_impl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/is_graph_bipartite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/most_stones_removed_with_same_rowcol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/possible_bipartition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/satisfiability_of_equality_equations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/similar_string_group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/design_gurus/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/design_gurus/valid_palindrome2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/take_u_forward_youtube_channel/assign_cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/take_u_forward_youtube_channel/lemonade_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/greedy_algorithm/take_u_forward_youtube_channel/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/conflicting_appointments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/employee_free_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/insert_interval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/intervals_intersections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/max_cpu_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/merge_intervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/minimum_meeting_rooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/merge_intervals/design_gurus/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/dutch_national_flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/three_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/three_sum_close_to_target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/by_topic/two_pointers/design_gurus/two_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/dsa/interview_6_with_sanjeev_qazi_June15/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/mock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_2_terry_yung_June29/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_3_with_anthony_hartmann_Aug10/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock_interviews/systems_design/interview_4_with_terry_yung_Sep_7/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/arrays/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/arrays/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/graph_theory/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/matrix_graphs/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/topological_sort/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/topological_sort/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_2d_grid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/images/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/images/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_geohashing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_quadtree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_google_s2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systems_design/systems_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/systems_design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/url_shortner.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -489,7 +435,7 @@
       <workItem from="1750597731158" duration="7171000" />
       <workItem from="1751813957790" duration="4086000" />
       <workItem from="1756332665516" duration="7572000" />
-      <workItem from="1757704420412" duration="11990000" />
+      <workItem from="1757704420412" duration="13152000" />
     </task>
     <servers />
   </component>

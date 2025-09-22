@@ -63,7 +63,7 @@ This is very inefficient, because even if you get all the nearest longitudes, yo
 equivalent to an entire width of the globe. The database indexing can only improve search speed in one dimension. So we
 need to find a way to convert the 2-dimensional coordinates to 1 dimensional coordinates.
 
-![img.png](../images/img.png)
+![img.png](../images/patterns_proximity_2d_grid.png)
 
 ### Types of Geo Spacial Indexes
 
@@ -83,7 +83,7 @@ hierarchical index, meaning that each added character provides a more precise lo
 area.The key property of geohashes is that nearby geographic locations will share a common, longer prefix in their
 geohash strings.
 
-![img_2.png](../images/img_2.png)
+![img_2.png](../images/patterns_proximity_geohashing.png)
 
 Use the below url to play around with geo hashing  
 https://geohash.softeng.co/
@@ -115,7 +115,7 @@ requirements do not call for changes to be reflected in real time. If it ever ca
 quadtrees on the fly, a tough proposition that would involve ensuring safe concurrent access to the quadtrees and
 rebalancing them where needed.
 
-![img.png](img.png)
+![img.png](../images/patterns_proximity_quadtree.png)
 
 #### How to get nearby businesses with quadtree:
 
@@ -135,7 +135,7 @@ has a very important property, two points that are close to each other on the hi
 on 1D space is much more efficient than 2D. S2 is a complicated library and you are not expected to explain its
 internals during an interview.
 
-![img_1.png](img_1.png)
+![img_1.png](../images/patterns_proximity_google_s2.png)
 
 ## Realworld implementation of Geo Hashing:
 
