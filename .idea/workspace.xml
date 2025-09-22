@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage_pattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_2d_grid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/images/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/images/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_geohashing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_quadtree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/images/patterns_proximity_google_s2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_points.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_points.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/geohashing_pattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systems_design/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/systems_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/systems_design.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -435,7 +432,8 @@
       <workItem from="1750597731158" duration="7171000" />
       <workItem from="1751813957790" duration="4086000" />
       <workItem from="1756332665516" duration="7572000" />
-      <workItem from="1757704420412" duration="13152000" />
+      <workItem from="1757704420412" duration="16848000" />
+      <workItem from="1758576677728" duration="1293000" />
     </task>
     <servers />
   </component>

@@ -28,12 +28,13 @@
    4. https://www.techiedelight.com/list-of-problems/
 
 
-### Systems Design
-1. https://www.youtube.com/playlist?list=PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ
-2. https://www.designgurus.io/path/system-design-interview-playbook
-2. https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-3. https://www.youtube.com/watch?v=lX4CrbXMsNQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf
+### Systems Design Sources
+1. [Hello Interview (some paid content)](https://www.hellointerview.com/learn/system-design)
+2. [Jordan has no life (youtube channel - free)](https://www.youtube.com/playlist?list=PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ)
+3. [Gourav Sen (youtube channel - free)](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+4. [Systems Design Fight Club (free)](https://systemdesignfightclub.com/)
+5. [Design Gurus (paid)](https://www.designgurus.io/path/system-design-interview-playbook)
 
-## Books
-1. Systems Design Interview by Alex Xu
-2. Systems Design Interview -2 by Alex Xu and Sahn Lam
+Books:
+1. Systems Design Interview by Alex Zu 1 & 2
+2. Designing Data Intense Applications by martin kleppmann 

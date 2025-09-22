@@ -93,9 +93,11 @@
 
 
 ## Resources
-1. https://www.hellointerview.com/learn/system-design
-2. https://www.youtube.com/playlist?list=PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ
-3. https://www.designgurus.io/path/system-design-interview-playbook
+1. [Hello Interview (some paid content)](https://www.hellointerview.com/learn/system-design)
+2. [Jordan has no life (youtube channel - free)](https://www.youtube.com/playlist?list=PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ)
+3. [Gourav Sen (youtube channel - free)](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+4. [Systems Design Fight Club (free)](https://systemdesignfightclub.com/)
+5. [Design Gurus (paid)](https://www.designgurus.io/path/system-design-interview-playbook)
 
 Books:
 1. Systems Design Interview by Alex Zu 1 & 2
