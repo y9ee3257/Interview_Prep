@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage_pattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/back_of_the_envelope_calculations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/dealing_with_contention_(concurrent_updates).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/real_time_updates.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/sql-vs-nosql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/questions/ticket-master.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_points.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview_points.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/proximity_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/geohashing_pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources.md" beforeDir="false" afterPath="$PROJECT_DIR$/sources.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/excalidraw/dropbox-2.excalidraw" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/excalidraw/dropbox-2.excalidraw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/excalidraw/ticketmaster.excalidraw" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/excalidraw/ticketmaster.excalidraw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/file_storage_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/geohashing_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/geohashing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systems_design/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -433,7 +441,10 @@
       <workItem from="1751813957790" duration="4086000" />
       <workItem from="1756332665516" duration="7572000" />
       <workItem from="1757704420412" duration="16848000" />
-      <workItem from="1758576677728" duration="1293000" />
+      <workItem from="1758576677728" duration="1676000" />
+      <workItem from="1758627297835" duration="627000" />
+      <workItem from="1758709023937" duration="2122000" />
+      <workItem from="1760051998437" duration="8658000" />
     </task>
     <servers />
   </component>

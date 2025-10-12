@@ -1,13 +1,13 @@
-|   | Pattern                   | Questions                                         |
-|---|---------------------------|---------------------------------------------------|
-| 1 | Online Booking System     | Ticket Master, Airbnb                             |
-| 2 | Searching                 | Ticket Master, Airbnb, Youtube                    |
-| 3 | Location Based Services   | Uber, Yelp, Nearby Friends, Delivery apps         |
-| 4 | File Storage              | Dropbox, Google Drive, S3                         |
-| 5 | Aggrigator Services       | Ad-click aggrigator                               |
-| 6 | Web Sockets Communication | Whatsapp, facebook messenger, Uber, Delivery apps |
-| 7 | Notifications             | Generic                                           |
-| 8 | Distributed Cache         | Generic                                           |
+|   | Pattern                       | Questions                                         |
+|---|-------------------------------|---------------------------------------------------|
+| 1 | Online Booking System         | Ticket Master, Airbnb                             |
+| 2 | Searching                     | Ticket Master, Airbnb, Youtube                    |
+| 3 | Location Based Services       | Uber, Yelp, Nearby Friends, Delivery apps         |
+| 4 | File Storage                  | Dropbox, Google Drive, S3                         |
+| 5 | Aggrigator Services           | Ad-click aggrigator                               |
+| 6 | Web Sockets/SSE Communication | Whatsapp, facebook messenger, Uber, Delivery apps |
+| 7 | Notifications                 | Generic                                           |
+| 8 | Distributed Cache             | Generic                                           |
 
 
 ## **Feed / Content Distribution**

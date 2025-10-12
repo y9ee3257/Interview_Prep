@@ -34,6 +34,7 @@
 3. [Gourav Sen (youtube channel - free)](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 4. [Systems Design Fight Club (free)](https://systemdesignfightclub.com/)
 5. [Design Gurus (paid)](https://www.designgurus.io/path/system-design-interview-playbook)
+6. [Systems Design primer](https://github.com/donnemartin/system-design-primer)
 
 Books:
 1. Systems Design Interview by Alex Zu 1 & 2
