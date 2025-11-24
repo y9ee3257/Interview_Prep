@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/back_of_the_envelope_calculations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/dealing_with_contention_(concurrent_updates).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/real_time_updates.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/patterns/sql-vs-nosql.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/questions/ticket-master.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_company/meta/leetcode_facebook_questions/arrays_and_strings/longest_sub_string_with_out_repeating_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/strings/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/leetcode_top_interview_questions/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/python_practice/practice/previous_answers/practice_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script_to_add_dsa_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/fan_out_on_write.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/websocket_communication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/questions/dropbox.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources.md" beforeDir="false" afterPath="$PROJECT_DIR$/sources.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/excalidraw/dropbox-2.excalidraw" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/excalidraw/dropbox-2.excalidraw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/excalidraw/ticketmaster.excalidraw" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/excalidraw/ticketmaster.excalidraw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/file_storage_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/patterns/geohashing_pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/geohashing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_company/meta/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_company/meta/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/python_practice/practice/arrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/python_practice/practice/heaps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/python_practice/practice/sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/python_practice/practice/stacks_queues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/python_practice/practice/strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/python_practice/practice_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/python_practice/practice_template.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systems_design/patterns/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systems_design/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns_real_time_updates_long_polling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns_real_time_updates_networking_basics.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,49 +85,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.all_sorting_implementation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decode_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.disjoint_set_impl.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dutch_national_flag.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generate_all_expressions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.insertion_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.min_sub_array_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.n_queens.executor&quot;: &quot;Run&quot;,
-    &quot;Python.permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;).executor&quot;: &quot;Run&quot;,
-    &quot;Python.single_valued_trees.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.suduko.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tree_traversals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zombie_convert.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ravitejathummala/IdeaProjects/Interview_Prep/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.all_sorting_implementation.executor": "Run",
+    "Python.decode_string.executor": "Run",
+    "Python.disjoint_set_impl.executor": "Run",
+    "Python.dutch_national_flag.executor": "Run",
+    "Python.generate_all_expressions.executor": "Run",
+    "Python.insertion_sort.executor": "Run",
+    "Python.interview.executor": "Run",
+    "Python.merge_sort.executor": "Run",
+    "Python.min_sub_array_sum.executor": "Run",
+    "Python.mock.executor": "Run",
+    "Python.n_queens.executor": "Run",
+    "Python.permutations.executor": "Run",
+    "Python.practice_1.executor": "Run",
+    "Python.practice_2.executor": "Run",
+    "Python.python raise Exception(&quot;Queue is empty&quot;).executor": "Run",
+    "Python.script_to_add_dsa_problem.executor": "Run",
+    "Python.single_valued_trees.executor": "Debug",
+    "Python.suduko.executor": "Run",
+    "Python.tree_traversals.executor": "Run",
+    "Python.two_sum.executor": "Run",
+    "Python.zombie_convert.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ravitejathummala/IdeaProjects/Interview_Prep/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6" />
@@ -139,30 +146,7 @@
       <recent name="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mock">
-    <configuration name="decode_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Prep" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/decode_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.script_to_add_dsa_problem">
     <configuration name="decode_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
@@ -301,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,12 +294,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/by_topic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/python_practice/practice/previous_answers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/by_topic/arrays/two_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/python_practice/practice/previous_answers/practice_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zombie_convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="script_to_add_dsa_problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,12 +317,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/zombie_convert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_to_add_dsa_problem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.script_to_add_dsa_problem" />
+        <item itemvalue="Python.practice_2" />
         <item itemvalue="Python.mock" />
         <item itemvalue="Python.disjoint_set_impl" />
         <item itemvalue="Python.interview" />
-        <item itemvalue="Python.decode_string" />
-        <item itemvalue="Python.zombie_convert" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +428,15 @@
       <workItem from="1758576677728" duration="1676000" />
       <workItem from="1758627297835" duration="627000" />
       <workItem from="1758709023937" duration="2122000" />
-      <workItem from="1760051998437" duration="8658000" />
+      <workItem from="1760051998437" duration="9865000" />
+      <workItem from="1760564121613" duration="564000" />
+      <workItem from="1760651253952" duration="301000" />
+      <workItem from="1760734530421" duration="3000" />
+      <workItem from="1761097138799" duration="299000" />
+      <workItem from="1762100868364" duration="6617000" />
+      <workItem from="1762301193663" duration="3395000" />
+      <workItem from="1762432361767" duration="647000" />
+      <workItem from="1762481934286" duration="13072000" />
     </task>
     <servers />
   </component>
@@ -478,13 +470,15 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
+    <SUITE FILE_PATH="coverage/Interview_Prep$practice_2.coverage" NAME="practice_2 Coverage Results" MODIFIED="1762608252007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa/python_practice/practice/previous_answers" />
     <SUITE FILE_PATH="coverage/DSA$tree_traversals.coverage" NAME="tree_traversals Coverage Results" MODIFIED="1743166544640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees" />
+    <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$n_queens.coverage" NAME="n_queens Coverage Results" MODIFIED="1725744712648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$insertion_sort.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723551850589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$min_sub_array_sum.coverage" NAME="min_sub_array_sum Coverage Results" MODIFIED="1726530281209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/dynamic_programming" />
     <SUITE FILE_PATH="coverage/DSA$implement_queue_using_stack.coverage" NAME="implement_queue_using_stack Coverage Results" MODIFIED="1702428475017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks" />
+    <SUITE FILE_PATH="coverage/Interview_Prep$script_to_add_dsa_problem.coverage" NAME="script_to_add_dsa_problem Coverage Results" MODIFIED="1762796301844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DSA$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1725732159100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
     <SUITE FILE_PATH="coverage/DSA$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1739637232213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic" />
     <SUITE FILE_PATH="coverage/DSA$dutch_national_flag.coverage" NAME="dutch_national_flag Coverage Results" MODIFIED="1738896003781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/design_gurus" />
