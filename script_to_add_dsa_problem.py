@@ -27,10 +27,10 @@ from typing import List, Tuple, Optional
 # ===========================
 # CONFIGURATION (edit here)
 # ===========================
-LEETCODE_URL = "https://leetcode.com/problems/insert-delete-getrandom-o1"
+LEETCODE_URL = "https://leetcode.com/problems/add-two-numbers/"
 SHOULD_PRACTICE_AGAIN = True
 CREATE_FILE = True
-FOLDER_PATH = "dsa/leetcode_top_interview_questions/arrays_and_strings"
+FOLDER_PATH = "dsa/leetcode_top_interview_questions/linked_list"
 README_PATH = "dsa/leetcode_top_interview_questions/readme.md"
 
 # ===========================
