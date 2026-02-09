@@ -18,8 +18,13 @@ By learning the below pattern questions, you will be able to solve around 80 DP 
    3. count of subset sum
    4. minimum subset sum diff
    5. target sum
-   6. count of subset sum with give difference 
+   6. count of subset sum with given difference 
 2. unbounded knapsack (5 variations)
+   1. unbounded knapsack
+   2. rod cutting
+   3. coin change
+   4. min coin change
+   5. max ribbon cut
 3. Fibonacci sequence (7 variations)
 4. Longest Common Subsequence (15 variations)
 5. Longest Increasing Subsequence (10 variations)

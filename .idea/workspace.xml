@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5534b1-b2a3-428b-b81c-40a0e990eb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/systems_design/images/questions_online_auction_system.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/images/questions_payment_system.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/questions/online_auction_system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systems_design/questions/payement_system.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/count_of_subset_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/knapsack-0-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/partition_equal_subset_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/partition_min_sum_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/subset_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/unbounded_knapsack_variation/coin_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/unbounded_knapsack_variation/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/unbounded_knapsack_variation/rod_cutting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/unbounded_knapsack_variation/unbounded_knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage/files_sync.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage/upload_download_files.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/questions/google_docs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systems_design/questions/price_tracking_service.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/leetcode_top_interview_questions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/leetcode_top_interview_questions/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script_to_add_dsa_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_to_add_dsa_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack-0-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/min_sub_array_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/common_non_functional_requirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/patterns/file_storage.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/file_storage.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systems_design/patterns/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/patterns/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems_design/questions/dropbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/systems_design/questions/dropbox.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +98,8 @@
     &quot;Python.generate_all_expressions.executor&quot;: &quot;Run&quot;,
     &quot;Python.insertion_sort.executor&quot;: &quot;Run&quot;,
     &quot;Python.interview.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knapsack-0-1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.knapsack-0-1.executor&quot;: &quot;Run&quot;,
     &quot;Python.merge_sort.executor&quot;: &quot;Run&quot;,
     &quot;Python.min_sub_array_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.mock.executor&quot;: &quot;Run&quot;,
@@ -93,6 +110,7 @@
     &quot;Python.python raise Exception(&amp;quot;Queue is empty&amp;quot;).executor&quot;: &quot;Run&quot;,
     &quot;Python.script_to_add_dsa_problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.single_valued_trees.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.subset_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.suduko.executor&quot;: &quot;Run&quot;,
     &quot;Python.tree_traversals.executor&quot;: &quot;Run&quot;,
     &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
@@ -135,8 +153,8 @@
       <recent name="$PROJECT_DIR$/mock_interviews/systems_design/interview_1_sanjeev_qazi_july_6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.script_to_add_dsa_problem">
-    <configuration name="decode_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.knapsack-0-1 (1)">
+    <configuration name="knapsack-0-1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/decode_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations/knapsack-0-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="disjoint_set_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="knapsack-0-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,104 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/dynamic_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/disjoint_set_impl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="disjoint_set_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Prep" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/graphs/design_gurus/union_find_dsu/disjoint_set_impl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Prep" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Prep" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_5_with_terry_jung_April_27/interview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Prep" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/mock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack-0-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zombie_convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="subset_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Prep" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,12 +255,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_variations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_interviews/dsa/interview_3_with_steven_kisely_April13/solutions/zombie_convert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_variations/subset_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.knapsack-0-1 (1)" />
+        <item itemvalue="Python.subset_sum" />
+        <item itemvalue="Python.knapsack-0-1" />
         <item itemvalue="Python.script_to_add_dsa_problem" />
         <item itemvalue="Python.practice_2" />
-        <item itemvalue="Python.mock" />
-        <item itemvalue="Python.disjoint_set_impl" />
-        <item itemvalue="Python.interview" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +353,17 @@
       <workItem from="1762432361767" duration="647000" />
       <workItem from="1762481934286" duration="13072000" />
       <workItem from="1763751822570" duration="2366000" />
-      <workItem from="1764259990004" duration="5800000" />
+      <workItem from="1764259990004" duration="9462000" />
+      <workItem from="1765480263472" duration="302000" />
+      <workItem from="1766155981578" duration="6096000" />
+      <workItem from="1767699944118" duration="974000" />
+      <workItem from="1768567901542" duration="10659000" />
+      <workItem from="1769015762768" duration="7000" />
+      <workItem from="1769081354335" duration="3563000" />
+      <workItem from="1769345537655" duration="138000" />
+      <workItem from="1769510628222" duration="8961000" />
+      <workItem from="1769878133085" duration="4912000" />
+      <workItem from="1770291683095" duration="681000" />
     </task>
     <servers />
   </component>
@@ -465,7 +401,9 @@
     <SUITE FILE_PATH="coverage/DSA$all_sorting_implementation.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723926592324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$tree_traversals.coverage" NAME="tree_traversals Coverage Results" MODIFIED="1743166544640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/by_topic/trees" />
     <SUITE FILE_PATH="coverage/DSA$implement_binary_tree.coverage" NAME="implement_binary_tree Coverage Results" MODIFIED="1703083302057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/by_topic/trees" />
+    <SUITE FILE_PATH="coverage/Interview_Prep$knapsack_0_1__1_.coverage" NAME="knapsack-0-1 (1) Coverage Results" MODIFIED="1768570302163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_01_variations" />
     <SUITE FILE_PATH="coverage/DSA$n_queens.coverage" NAME="n_queens Coverage Results" MODIFIED="1725744712648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/grokking_the_coding_interview/back_tracking" />
+    <SUITE FILE_PATH="coverage/Interview_Prep$subset_sum.coverage" NAME="subset_sum Coverage Results" MODIFIED="1767700762661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa/by_topic/dynamic_programming/knapsack_variations" />
     <SUITE FILE_PATH="coverage/DSA$insertion_sort.coverage" NAME="all_sorting_implementation Coverage Results" MODIFIED="1723551850589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/ik/sorting" />
     <SUITE FILE_PATH="coverage/DSA$min_sub_array_sum.coverage" NAME="min_sub_array_sum Coverage Results" MODIFIED="1726530281209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/dynamic_programming" />
     <SUITE FILE_PATH="coverage/DSA$implement_queue_using_stack.coverage" NAME="implement_queue_using_stack Coverage Results" MODIFIED="1702428475017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ravi/grokking_the_coding_interview/stacks" />
@@ -479,6 +417,7 @@
     <SUITE FILE_PATH="coverage/Interview_Prep$mock.coverage" NAME="mock Coverage Results" MODIFIED="1751816172766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mock_interviews" />
     <SUITE FILE_PATH="coverage/DSA$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1738547556520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/recursion" />
     <SUITE FILE_PATH="coverage/DSA$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1738287926970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ik/sorting/sorting_techiniques" />
+    <SUITE FILE_PATH="coverage/Interview_Prep$knapsack_0_1.coverage" NAME="knapsack-0-1 Coverage Results" MODIFIED="1766179560339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa/by_topic/dynamic_programming" />
     <SUITE FILE_PATH="coverage/DSA$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1738461786888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python_practice/practice" />
   </component>
 </project>

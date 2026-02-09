@@ -1,13 +1,13 @@
 <!-- TOC -->
- * [Uploading files](#uploading-files)
-   * [S3 pre-signed URL's](#s3-pre-signed-urls)
- * [Downloading files](#downloading-files)
- * [Use cases](#use-cases)
-   * [YouTube / Netflix](#youtube--netflix)
- * [Non-Functional Requirements on File storage](#non-functional-requirements-on-file-storage)
-   * [1. The system should support resumable uploads?](#1-the-system-should-support-resumable-uploads)
-   * [2. The system should handle processing a video to support adaptive bitrate streaming?](#2-the-system-should-handle-processing-a-video-to-support-adaptive-bitrate-streaming)
-   * [3. The system should make uploads, downloads, and syncing as fast as possible?](#3-the-system-should-make-uploads-downloads-and-syncing-as-fast-as-possible)
+    * [Uploading files](#uploading-files)
+      * [S3 pre-signed URL's](#s3-pre-signed-urls)
+    * [Downloading files](#downloading-files)
+    * [Use cases](#use-cases)
+      * [YouTube / Netflix](#youtube--netflix)
+    * [Non-Functional Requirements on File storage](#non-functional-requirements-on-file-storage)
+      * [1. The system should support resumable uploads](#1-the-system-should-support-resumable-uploads)
+      * [2. The system should handle processing a video to support adaptive bitrate streaming](#2-the-system-should-handle-processing-a-video-to-support-adaptive-bitrate-streaming)
+      * [3. The system should make uploads, downloads, and syncing as fast as possible](#3-the-system-should-make-uploads-downloads-and-syncing-as-fast-as-possible)
 <!-- TOC -->
 
 
